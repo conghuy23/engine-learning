@@ -9,3 +9,5 @@ src/learning_engine.egg-info/dependency_links.txt
 src/learning_engine.egg-info/entry_points.txt
 src/learning_engine.egg-info/requires.txt
 src/learning_engine.egg-info/top_level.txt
+src/learning_engine/algorithms/sm2.py
+tests/test_sm2.py
