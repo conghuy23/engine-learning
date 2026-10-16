@@ -1,0 +1,2 @@
+[console_scripts]
+learn = learning_engine.cli:app
