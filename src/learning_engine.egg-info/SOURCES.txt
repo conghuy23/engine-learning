@@ -1,5 +1,6 @@
 README.md
 pyproject.toml
+src/learning_engine/cli.py
 src/learning_engine/config.py
 src/learning_engine/db.py
 src/learning_engine/models.py
@@ -10,4 +11,8 @@ src/learning_engine.egg-info/entry_points.txt
 src/learning_engine.egg-info/requires.txt
 src/learning_engine.egg-info/top_level.txt
 src/learning_engine/algorithms/sm2.py
+src/learning_engine/integrations/anki.py
+src/learning_engine/services/feynman.py
+src/learning_engine/services/interleaving.py
+src/learning_engine/services/scheduler.py
 tests/test_sm2.py
